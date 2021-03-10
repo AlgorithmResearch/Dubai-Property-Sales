@@ -2,4 +2,4 @@
 ![](DLD.png)
 ![](PMI.png)
 ![](RevPAR.png)
-![](Airport Traffic.png)
+![](Airport.png)
